@@ -1,4 +1,4 @@
-# analizador-ventas
+# Analizador-ventas
 
 Este proyecto consiste en el desarrollo de un analizador de ventas utilizando Python, con el objetivo de identificar patrones, tendencias y métricas clave a partir de datos de un negocio.
 
@@ -62,4 +62,4 @@ El análisis permite identificar:
 
 ## Autor
 
-Proyecto desarrollado por [Juan Diego]
+Proyecto desarrollado por [Juan Diego Diaz]
